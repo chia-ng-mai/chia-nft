@@ -1,0 +1,8 @@
+{
+    "wallet_id": 2,
+    "uris": [
+        "https://raw.githubusercontent.com/chia-ng-mai/chia-nft/a219e1144f6b3b4ca06737452f82b1aa9cdcdced/assets/ping_river.jpg"
+    ],
+    "hash": "ea1f6514d221e5b8b7f0fdff7a4da8802448da111b2beed32d2975f29f362dc2",
+    "artist_address": "txch19e4r7yv6nd6ukfvesvq59jmhmvj8vv6qx43uzj7wdqxqgt0xcrvs59jv54"
+}

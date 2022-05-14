@@ -1,0 +1,8 @@
+{
+    "wallet_id": 2,
+    "uris": [
+        "https://raw.githubusercontent.com/chia-ng-mai/chia-nft/c05de0fcc2d2cef585f0c3fd0c807fd63caa4bd5/assets/gene-meme.png"
+    ],
+    "hash": "de7c8f088ee1d1af6dd28439a5766e71bfeb0d428d46e23d489b787583e964cc",
+    "artist_address": "txch1hvl96l6wlfwxcmrxjmea6jpttsves78xuk8alpl27x3anl3j2kyq7smxu5"
+}
